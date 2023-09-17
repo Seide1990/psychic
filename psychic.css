@@ -1,0 +1,16 @@
+#main{
+
+    border: 1px solid red;
+    border-radius: 30px;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 30px;
+    padding: 100px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
